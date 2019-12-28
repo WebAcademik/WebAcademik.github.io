@@ -1,0 +1,56 @@
+body {
+	font-family: Tahoma, sans-serif;
+}
+.header {
+	font-size: 20px;
+	line-height: 1.5;
+	margin-bottom: 60px;
+}
+.header span {
+	display: block;
+}
+.section {
+	padding: 40px 0;
+}
+.video {
+	margin-bottom: 30px;
+}
+.form {
+	border: 5px solid #2727d9;
+	padding: 30px 20px;
+}
+.form input {
+	margin-bottom: 12px;
+}
+.form-header {
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form-btn {
+	margin: 12px auto;
+	background-color: #2727d9;
+}
+.section-header {
+	font-size: 20px;
+	font-weight: 900;
+}
+.feature {
+	margin-top: 60px;
+}
+.feature img {
+margin-bottom: 10px;
+}
+.feature-box {
+	margin-bottom: 60px;
+	height: 160px;
+}
+.client-box {
+	text-align: center;
+	margin-bottom: 30px;
+}
+.section2-header {
+	font-size: 24px;
+	font-weight: 900;
+	margin-bottom: 60px;
+}
